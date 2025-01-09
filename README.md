@@ -4,6 +4,10 @@
 
 A new Flutter project.
 
+# Nama : Moh. Naufal
+# NIM : 362358302146
+# Kelas : 2A
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
