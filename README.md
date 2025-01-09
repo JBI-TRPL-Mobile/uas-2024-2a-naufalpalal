@@ -8,6 +8,23 @@ A new Flutter project.
 # NIM : 362358302146
 # Kelas : 2A
 
+# Tampilan untuk screen login yang berisi pilihan antara sign In dan Sign Up
+![alt text](1.png)
+
+# Tampilan Sign In dan Sign Up
+![alt text](2.png)
+![alt text](<3 sigup.png>)
+
+# Tampilan Home 
+![alt text](<4 Home.png>)
+
+# Tampilan Profile dan ada Popupnya untuk konfirmasi Log Outnya
+![alt text](Profile.png)
+![alt text](<popup Konfirmasi.png>)
+
+# Tampilan Messages
+![alt text](<5 Messages.png>)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

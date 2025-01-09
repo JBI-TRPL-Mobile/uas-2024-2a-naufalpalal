@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'messages_screen.dart';
 import 'profile_screen.dart';
 
 class HomeScreen extends StatelessWidget {
@@ -52,10 +53,10 @@ class HomeScreen extends StatelessWidget {
         currentIndex: 0,
         onTap: (index) {
           if (index == 1) {
-            //Navigator.push(
-              //context,
-              //MaterialPageRoute(builder: (context) => MessagesScreen()),
-            //);
+            Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => MessagesScreen()),
+            );
           } else if (index == 2) {
             Navigator.push(
               context,
